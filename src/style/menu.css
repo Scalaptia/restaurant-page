@@ -6,9 +6,14 @@
 }
 
 .menu-title {
-    font-family: 'Pacifico', cursive;
+    font-family: "Pacifico", cursive;
     font-weight: 500;
     margin-bottom: 40px;
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: 700;
 }
 
 .menu {
@@ -39,7 +44,7 @@
 }
 
 .item-name {
-    font-family: 'Pacifico', cursive;
+    font-family: "Pacifico", cursive;
     font-size: 24px;
     font-weight: 500;
 }
